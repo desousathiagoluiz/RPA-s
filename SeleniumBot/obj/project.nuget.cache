@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pfRPBUL5v7M=",
+  "success": true,
+  "projectFilePath": "C:\\New-C#-Projects\\RPA's\\SeleniumBot\\SeleniumBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\selenium.support\\4.11.0\\selenium.support.4.11.0.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.13700\\selenium.webdriver.chromedriver.128.0.6613.13700.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\selenium.webdriver.iedriver\\4.14.0\\selenium.webdriver.iedriver.4.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
